@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcjJM6GcSuowsg19DAD2+wNJSIJx0D8DSScS9d3w0SVWEbOdsdoy7amHmAOgrAE0RQEAqf2q5+fI/5R1yesLnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VishalWaman\\source\\repos\\ToDo List\\Todo-List-Application-Back-End-React-Asp.Net-Mysql--main\\CommonLayers\\CommonLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\mongodb.bson\\2.15.1\\mongodb.bson.2.15.1.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
